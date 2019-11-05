@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Zero656329/zero/issues"
   },
-  "homepage": "https://github.com/Zero656329/zero#readme"
+  "homepage": "https://github.com/Zero656329/zero#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }
