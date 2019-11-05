@@ -1,0 +1,23 @@
+{
+  "name": "zero",
+  "version": "0.0.1",
+  "description": "vueUI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zero656329/zero.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "jwhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zero656329/zero/issues"
+  },
+  "homepage": "https://github.com/Zero656329/zero#readme"
+}
